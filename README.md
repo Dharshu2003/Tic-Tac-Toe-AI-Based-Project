@@ -44,4 +44,7 @@ function minimax(node, depth, isMaximizingPlayer, alpha, beta):
         
 // Calling the function for the first time.
 minimax(0, 0, true, -INFINITY, +INFINITY)
+
+Minimax Algorithm Visualisation
+
 ![minimax_visual](https://github.com/Dharshu2003/Tic-Tac-Toe-AI-Based-Project/assets/150321937/db65ef67-9788-4ee9-be26-ce7565af8898)
